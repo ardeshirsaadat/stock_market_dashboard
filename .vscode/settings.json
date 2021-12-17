@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "stockmarketenv\\Scripts\\python.exe",
+  "python.formatting.provider": "black"
+}
